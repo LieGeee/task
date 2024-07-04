@@ -1,0 +1,4 @@
+E:/task/01/sruct/cmake-build-debug/CMakeFiles/sruct.dir
+E:/task/01/sruct/cmake-build-debug/CMakeFiles/linkList.dir
+E:/task/01/sruct/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/task/01/sruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
